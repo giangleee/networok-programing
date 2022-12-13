@@ -1,0 +1,2 @@
+paris.png /server_data/resource/paris.png
+picture.png /server_data/resource/picture.png
